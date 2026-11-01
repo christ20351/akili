@@ -1,0 +1,10 @@
+# Baseline configuration for Akili
+
+model:
+  name: baseline
+  params: {}
+
+training:
+  epochs: 10
+  batch_size: 32
+  learning_rate: 0.001
